@@ -1,1 +1,1 @@
-# Ds_salary_project
+# Data science project 
